@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deborazuanny
-- 👀 I’m interested in biogeography, botany and ecology! Today I am a biologist :D
+- 👀 I’m interested in biogeography, data science, botany and ecology! Today I am a biologist :D
 - 🌱 I’m currently learning R language to do my Master dg
 - 💞️ I’m looking to collaborate on r packages
 - 📫 You can reach me in deborazuanny@gmail.com
