@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @deborazuanny
-- 👀 I’m interested in biogeography, data science, botany and ecology! Today I am a biologist :D
-- 🌱 I’m currently learning R language
-- 💞️ I’m looking to collaborate and hand over R packages and other open source initiatives
+# Hi! I'm Débora Zuanny 👋 😄
+
+Welcome to my GitHub!
+I'm doing my Master degree and interested in biogeography, data science, botany and ecology! 
+
+Today I am a biologist 🌱 currently learning R language and looking to collaborate and hand over R packages and other open source initiatives! 
+
 - 📫 You can reach me in deborazuanny@gmail.com
 
 <!---
