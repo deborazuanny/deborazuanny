@@ -1,9 +1,6 @@
-# Hi! I'm Débora Zuanny 👋 😄
+# Hi! I am Débora Zuanny ✨ 
 
-Welcome to my GitHub!
-I'm a MsC student and interested in biogeography, data science, botany and ecology! 
-
-Today I am a biologist 🌱 currently learning R language and looking to collaborate and hand over R packages and other open source initiatives! 
+Welcome to my GitHub! I am deeply interested in how distribution of plants reflects history and evolution, and what are the major factors that can change the taxonomy and biogeography of mega-diverse genera over time. Whilst much of my work reflect a continuing engagement with R community, here I show custom scripts and I look to collaborate on open source initiatives!
 
 - 📫 You can reach me in deborazuanny@gmail.com
 
