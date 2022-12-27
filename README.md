@@ -1,4 +1,4 @@
-# Hi! I am Débora Zuanny ✨ 
+# Hi! I am Débora Zuanny!
 
 Welcome to my GitHub! I am deeply interested in how distribution of plants reflects history and evolution, and what are the major factors that can change the taxonomy and biogeography of big genera over time. Whilst much of my work reflect a continuing engagement with R community, here I show custom scripts and I look to collaborate on open source initiatives!
 
